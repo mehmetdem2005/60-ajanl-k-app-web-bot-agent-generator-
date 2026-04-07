@@ -1,0 +1,14 @@
+apiVersion: v2
+name: planner-ecosystem
+description: Autonomous Software Factory - Production Helm Chart
+type: application
+version: 1.0.0
+appVersion: "1.0.0-stable"
+keywords:
+  - agents
+  - autonomous
+  - kubernetes
+  - microservices
+maintainers:
+  - name: Platform Engineering
+    email: platform@yourcompany.com
